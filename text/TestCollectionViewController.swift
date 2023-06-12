@@ -14,13 +14,7 @@ class TestCollectionViewController: UICollectionViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Uncomment the following line to preserve selection between presentations
-        // self.clearsSelectionOnViewWillAppear = false
-
-        // Register cell classes
-    
-
-        // Do any additional setup after loading the view.
+        //改變
     }
 
     /*
